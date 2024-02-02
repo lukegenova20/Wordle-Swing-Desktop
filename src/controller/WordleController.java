@@ -78,7 +78,7 @@ public class WordleController {
 	private String checkingExceptions(String guess) {
 		String problem = "Guess is not a valid word in the dictionary.";
 		if (guess.length() > 5) {
-			problem = "Guess is invalid beacue its too long.";
+			problem = "Guess is invalid because its too long.";
 			return problem;
 		} else if (guess.length() < 5){
 			problem = "Guess is invalid because its too short.";
