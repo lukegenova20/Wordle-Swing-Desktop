@@ -1,4 +1,9 @@
 # Wordle Java-Swing-MVC
+
+<p align="middle">
+  <img src="./images/Gameplay.png" width="500" />  
+</p>
+
 This program is a simple Wordle Clone written in Java that uses the Java-Swing Framework for its GUI and follows the Model-View-Controller (MVC) Architecture. 
 
 I created the GUI for this Wordle Clone in a different Java GUI Framework called JavaFX for one of my classes in college. However, I wanted to practice using the Java-Swing framework. Therefore, I created a new GUI for the game using a different Framework.
