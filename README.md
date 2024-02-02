@@ -24,7 +24,7 @@ Make sure to install Java and the Eclipse IDE on your machine.
      * -text: Displays the CLI (command line interface) version of the application. The command line will be displayed in Eclipse. (NOTE: make sure to click right next to "Enter a guess:" so that you can enter a word).
    * Press the Run button
   
-## How to play
+## How to Play
 
 If you haven't played the game before, I recommend reading this [article](https://mashable.com/article/wordle-word-game-what-is-it-explained)
 
