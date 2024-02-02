@@ -7,7 +7,7 @@ I created the GUI for this Wordle Clone in a different Java GUI Framework called
 I used code from a project I had in one of my classes in college. Some of the code was starter code given by my instructor Tyler Conklin which is why some of the Java files have his name listed on them. 
 
 
-# How to Run
+## How to Run
 Make sure to install Java and the Eclipse IDE on your machine.
 
 1. Once you open the Eclipse IDE and download this project from the repo:
@@ -24,7 +24,7 @@ Make sure to install Java and the Eclipse IDE on your machine.
      * -text: Displays the CLI (command line interface) version of the application. The command line will be displayed in Eclipse. (NOTE: make sure to click right next to "Enter a guess:" so that you can enter a word).
    * Press the Run button
   
-# How to play
+## How to play
 
 If you haven't played the game before, I recommend reading this [article](https://mashable.com/article/wordle-word-game-what-is-it-explained)
 
